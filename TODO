@@ -1,0 +1,16 @@
+TODO:
+
+bugs:
+T piece can go off the right side of the screen, not sure if during spin or moving right
+
+refactor!
+make sure all values of 20 are switched to Global variable
+adjust the axis of rotation for pieces
+check for bugs
+
+optional:
+quick moving left and right
+gravity
+#i am removing buffers on left side of pieces.....buffers can be added in piece's rotate method
+
+
